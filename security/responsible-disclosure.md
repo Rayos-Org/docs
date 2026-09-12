@@ -1,7 +1,7 @@
-﻿---
+---
 id: responsible-disclosure
 title: Responsible Disclosure
-sidebar_label: 🔒 Responsible Disclosure
+sidebar_label: "🔒 Responsible Disclosure"
 ---
 
 # Responsible Disclosure

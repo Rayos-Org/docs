@@ -1,4 +1,4 @@
-﻿---
+---
 id: threat-model
 title: Threat Model
 sidebar_label: "🛡️ Threat Model"
