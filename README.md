@@ -5,7 +5,7 @@
 <h1 align="center">Rayos Documentation</h1>
 
 <p align="center">
-  <strong>The official public-facing developer documentation for the Rayos Ecosystem.</strong><br/>
+  <strong>The official public-facing developer documentation for the Rayos Organization.</strong><br/>
   Seedless, passkey-native smart wallets for Stellar.
 </p>
 
