@@ -1,4 +1,4 @@
-﻿---
+---
 id: recovery-flow
 title: Recovery Flow
 sidebar_label: "🔄 Recovery Flow"

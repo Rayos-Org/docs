@@ -1,4 +1,4 @@
-﻿---
+---
 id: integrating-the-sdk
 title: Integrating the SDK
 sidebar_label: "🔧 Integrating the SDK"
