@@ -1,4 +1,4 @@
-﻿---
+---
 id: architecture-apps
 title: Applications
 sidebar_label: "🖥️ Applications"

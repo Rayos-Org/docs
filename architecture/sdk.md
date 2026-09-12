@@ -1,4 +1,4 @@
-﻿---
+---
 id: architecture-sdk
 title: Wallet SDK
 sidebar_label: "📦 Wallet SDK"

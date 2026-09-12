@@ -1,7 +1,7 @@
-﻿---
+---
 id: architecture-overview
 title: Architecture Overview
-sidebar_label: "Overview"
+sidebar_label: "🏛️ Overview"
 ---
 
 # Architecture Overview

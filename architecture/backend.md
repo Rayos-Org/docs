@@ -1,4 +1,4 @@
-﻿---
+---
 id: architecture-backend
 title: Relay Backend
 sidebar_label: "⚙️ Relay Backend"

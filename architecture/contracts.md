@@ -1,4 +1,4 @@
-﻿---
+---
 id: architecture-contracts
 title: Smart Contracts
 sidebar_label: "🔗 Smart Contracts"

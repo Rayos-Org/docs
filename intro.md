@@ -1,7 +1,7 @@
-﻿---
+---
 id: intro
 title: Welcome to Rayos
-sidebar_label: "\U0001F44B Introduction"
+sidebar_label: "👋 Introduction"
 slug: /
 ---
 
