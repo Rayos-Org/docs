@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Rayos Documentation',
   tagline: 'Seedless, passkey-native smart wallets for Stellar',
-  favicon: 'img/favicon.ico',
+  // favicon: 'img/favicon.ico',
 
   url: 'https://docs.rayos.org',
   baseUrl: '/',
@@ -42,12 +42,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Rayos',
         logo: {
           alt: 'Rayos Logo',
-          src: 'img/logo.svg',
+          // src: 'img/logo.svg',
         },
         items: [
           {
