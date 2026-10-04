@@ -18,11 +18,11 @@ const sidebars = {
       type: 'category',
       label: 'Architecture',
       items: [
-        'architecture/overview',
-        'architecture/contracts',
-        'architecture/sdk',
-        'architecture/backend',
-        'architecture/apps',
+        'architecture/architecture-overview',
+        'architecture/architecture-contracts',
+        'architecture/architecture-sdk',
+        'architecture/architecture-backend',
+        'architecture/architecture-apps',
       ],
     },
     {
