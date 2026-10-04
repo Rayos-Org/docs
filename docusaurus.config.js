@@ -52,7 +52,7 @@ const config = {
         title: 'Rayos',
         logo: {
           alt: 'Rayos Logo',
-          // src: 'img/logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -76,3 +76,4 @@ const config = {
 };
 
 export default config;
+
