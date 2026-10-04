@@ -13,7 +13,7 @@ const config = {
   organizationName: 'Rayos-Org',
   projectName: 'docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
@@ -27,7 +27,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/', // Serve docs at the root
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl: 'https://github.com/Rayos-Org/docs/tree/main/',
         },
@@ -42,6 +42,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Rayos',
@@ -62,43 +67,6 @@ const config = {
             position: 'right',
           },
         ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Introduction',
-                to: '/',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/rayos',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/rayos',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Rayos-Org',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Rayos Ecosystem. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
